@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.banner-image-container{
+  height:240px;
+}
+
+.banner-img{
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+
+.repo-card{
+  width: 18rem
+
+}
