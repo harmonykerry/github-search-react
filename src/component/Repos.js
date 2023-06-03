@@ -10,7 +10,7 @@ function Repos({ repos }) {
           <Card className="repo-card m-3" key={repo.id}>
             <Card.Img variant="top" src={repo?.owner?.avatar_url} />
             <Card.Body>
-              <Card.Title>{repo.name}</Card.Title>
+              <Card.Title className="card-title">{repo.name}</Card.Title>
               {repo.description && <Card.Text>{repo.description}</Card.Text>}
             </Card.Body>
             <Card.Footer className="text-center">

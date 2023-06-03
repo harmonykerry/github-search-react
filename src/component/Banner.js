@@ -4,8 +4,8 @@ import desert from "../image/desert.png";
 function Banner() {
   return (
     <div className="text-center py-4">
-      <h1 className="my-2  p-2 border ">Github Explorer</h1>
-      <h2 className="my-2  p-2 border ">
+      <h1 className="my-2  p-2 ">Github Explorer</h1>
+      <h2 className="my-2  p-2 ">
         An interactive tool to replace the vastness of Github magic.
       </h2>
       <div className="banner-image-container">

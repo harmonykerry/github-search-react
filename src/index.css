@@ -1,3 +1,8 @@
+*{
+  background-color: rgb(40, 40, 40);
+  color:aliceblue
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,6 +10,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(48, 48, 48);
 }
 
 .banner-image-container{
@@ -20,4 +26,8 @@ body {
 .repo-card{
   width: 18rem
 
+}
+
+.card-title{
+  color:rgb(201, 202, 202) !important
 }
