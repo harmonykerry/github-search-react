@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github-search-react/static/css/main.de5ef232.css",
+    "main.js": "/github-search-react/static/js/main.ee1d3988.js",
+    "static/media/desert.png": "/github-search-react/static/media/desert.6dfc477cb8ccc09f0b15.png",
+    "index.html": "/github-search-react/index.html",
+    "main.de5ef232.css.map": "/github-search-react/static/css/main.de5ef232.css.map",
+    "main.ee1d3988.js.map": "/github-search-react/static/js/main.ee1d3988.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de5ef232.css",
+    "static/js/main.ee1d3988.js"
+  ]
+}
